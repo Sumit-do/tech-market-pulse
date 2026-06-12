@@ -1,0 +1,18 @@
+# Roadmap
+
+## Phase 1 — Foundation
+- [ ] Set up MERN boilerplate
+- [ ] MongoDB schemas
+- [ ] One working fetcher (HN)
+
+## Phase 2 — AI Layer
+- [ ] Article categorization
+- [ ] Daily synthesis job
+
+## Phase 3 — Dashboard
+- [ ] Trend charts
+- [ ] Prepare-for card
+
+## Phase 4 — Personalization
+- [ ] Resume gap analysis
+- [ ] User accounts
